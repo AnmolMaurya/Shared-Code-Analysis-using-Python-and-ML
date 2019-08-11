@@ -11,7 +11,7 @@ In reverse engineering, shared code analysis helps identify samples that can be 
 
 *-Visualize malware relationships to better understand code-sharing patterns between malware samples and to communicate your results to others.*
 
-*-Use two proof-of-concept tools I built for this book that implement these ideas and allow you to see malware shared code relationships.*
+
 -
 -
 -
