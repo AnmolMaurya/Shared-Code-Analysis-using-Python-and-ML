@@ -36,6 +36,6 @@ In reverse engineering, shared code analysis helps identify samples that can be 
 
 
 
-I will not be uploading the complete project online, due to some privacy and security issues.
-If you want to know more about this project , you can contact me through social networking sites or mail to anmolntgbr@gmail.com 
-I would love to reply
+I will not be uploading the complete project online, after the PYCON conference.
+If you want to know more about this project , you can contact me through social networking sites or mail me to anmolntgbr@gmail.com 
+I would love to reply.
